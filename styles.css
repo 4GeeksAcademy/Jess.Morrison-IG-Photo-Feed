@@ -1,0 +1,23 @@
+.bi-instagram {
+    Width: 20px;
+    height: 20px;
+}
+img {
+    height: 300px;
+}
+.bi-geo-alt-fill {
+    width: 20px;
+    height: 20px;
+}
+.bi-camera-fill {
+    width: 20px;
+    height: 20px;
+}
+.nav-pills .nav-link.active {
+    fill: #0d6efd;
+    background-color: unset!important;
+}
+
+.nav-pills .nav-link {
+    color: unset!important;
+}
